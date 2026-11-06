@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024" width="1024" height="1024">
+  <title>Olymeria</title>
+  <rect width="1024" height="1024" fill="#0d1636"/>
+  <circle cx="512" cy="512" r="330" fill="#16244f"/>
+  <g fill="none" stroke="#3a4a80" stroke-width="14">
+    <ellipse cx="512" cy="512" rx="165" ry="330"/>
+    <path d="M182 512H842M226 352H798M226 672H798"/>
+  </g>
+  <circle cx="512" cy="512" r="372" fill="none" stroke="#ffd23f" stroke-width="92"/>
+  <path d="M408 424a104 104 0 1 1 164 85c-40 27-60 50-60 92" fill="none" stroke="#f6efe0" stroke-width="78" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="512" cy="718" r="52" fill="#ff4b3e"/>
+</svg>
