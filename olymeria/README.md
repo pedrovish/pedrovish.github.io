@@ -60,7 +60,23 @@ node make.js video ../quizzes/AAAA-MM-JJ.json ../videos/AAAA-MM-JJ.mp4
 
 ## Publier
 
-- URL de la vidéo : `https://pedrovish.github.io/olymeria/videos/AAAA-MM-JJ.mp4`
+Deux vidéos par jour, chacune avec une question différente sur un thème différent.
+
+- Fichiers : `quizzes/AAAA-MM-JJ-1.json` et `-2.json`, `videos/AAAA-MM-JJ-1.mp4` et `-2.mp4`. Les fichiers plus anciens sans suffixe restent valables pour l'historique.
+- URL de la vidéo : `https://pedrovish.github.io/olymeria/videos/AAAA-MM-JJ-N.mp4`
 - Compte Buffer : `olymeria_`, canal `6aeda5f1e29c69a1717f850c`, organisation `6aa27930fb6c740e3d1f107a`
-- Heure : 19:00, heure de Paris
 - Supprimer de `videos/` les vidéos de plus de 14 jours, une fois publiées, pour garder le dépôt léger.
+
+### Horaires (heure de Paris)
+
+| Jour | Créneau 1 | Créneau 2 |
+| --- | --- | --- |
+| Lundi | 13:00 | 19:00 |
+| Mardi | 07:00 | 19:00 |
+| Mercredi | 12:30 | 21:30 |
+| Jeudi | 13:00 | 21:30 |
+| Vendredi | 18:00 | 21:00 |
+| Samedi | 13:00 | 17:00 |
+| Dimanche | 09:00 | 13:00 |
+
+Choisis d'après l'étude Buffer sur 7,1 millions de posts (https://buffer.com/fr/resources/meilleure-heure-pour-publier-sur-tiktok) et le pic de début de soirée en semaine. À revoir avec les vues réelles par créneau après deux semaines.
